@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="wordWeather">Weather\u0020\u0020\u0020\u0020\u0020</string>
+    <string name="wordDate">en-EN</string>
+    <string name="wordTime">Time:\u0020</string>
+    <string name="wordTemperature">Temperature:\u0020</string>
+    <string name="wordWind">Wind</string>
+    <string name="wordPressure">Pressure</string>
+    <string name="wordHumidity">Humidity</string>
+    <string name="wordMMPTST">\u0020mm\u0020of\u0020mercury</string>
+    <string name="wordMC">\u0020m/c</string>
+    <string name="wordC">\u0020°C</string>
+    <string name="wordStyle">Style</string>
+    <string name="wordDay">Slyte \"Day\"</string>
+    <string name="wordNight">Slyte \"Night\"</string>
+    <string name="wordListCities">List cities</string>
+    <string name="wordVisible">Visible</string>
+    <string name="wordInvisible">Invisible</string>
+</resources>
